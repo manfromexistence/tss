@@ -1,4 +1,4 @@
-# Inspiration Codebase's For This Project
+# Inspiration codebase's for this project
 1. tailwindcss(v4): https://github.com/tailwindlabs/tailwindcss.git
 2. Typescript: https://github.com/microsoft/TypeScript.git
 3. sass: https://github.com/sass/sass.git
