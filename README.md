@@ -35,4 +35,4 @@
 7. plouc/nivo: https://github.com/plouc/nivo.git
 8. dsherret/ts-morph(I don't know what is this): https://github.com/dsherret/ts-morph.git
 9. gpbl/react-day-pcker: https://github.com/gpbl/react-day-picker.git
-10. geist(just a useless font family): https://github.com/vercel/geist-font.git
+10. geist(Just a useless font family): https://github.com/vercel/geist-font.git
