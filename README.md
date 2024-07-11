@@ -7,14 +7,14 @@
 1. lukeed/clsx: https://github.com/lukeed/clsx.git
 1. dcastil/taiwind-merge: https://github.com/dcastil/tailwind-merge.git
 1. recharts: https://github.com/recharts/recharts.git
-5. material-foundation-design: https://github.com/material-foundation/material-color-utilities.git
+5. material-design-foundation: https://github.com/material-foundation/material-color-utilities.git
 6. shadcn-ui/ui: https://github.com/shadcn-ui/ui.git
 7. material-foundation-desing: material-foundation-design: mui/material-ui: https://github.com/mui/material-ui.git
 8. ant-design: https://github.com/ant-design/ant-design.git
 9. nextui-org/nextui: https://github.com/nextui-org/nextui.git
 10. zig: https://github.com/ziglang/zig.git
 11. bun: https://github.com/oven-sh/bun.git
-12. NixOs"nixpkgs": https://github.com/NixOS/nixpkgs.git
+12. NixOs(nixpkgs): https://github.com/NixOS/nixpkgs.git
 
 # Some more stuffs
 * Ant Design Magic: https://ant-design-charts.antgroup.com/en/
@@ -24,7 +24,7 @@
 * dart(language): https://github.com/dart-lang/language.git
 * swift: https://github.com/swiftlang/swift.git
 
-<!-- Just out of curiosity -->
+<!-- Too lazay... -->
 # This list is not related to this codebase but still, I am too lazy to put this info in correct repo right now
 1. TanStack/query: https://github.com/TanStack/query.git
 2. d3: https://github.com/d3/d3.git + same but in specially for react: https://github.com/recharts/recharts.git
