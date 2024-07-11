@@ -9,7 +9,7 @@
 1. recharts: https://github.com/recharts/recharts.git
 5. https://github.com/material-foundation/material-color-utilities.git
 6. shadcn-ui/ui: https://github.com/shadcn-ui/ui.git
-7. material-foundation-design: mui/material-ui: https://github.com/mui/material-ui.git
+7. material-foundation-desing: material-foundation-design: mui/material-ui: https://github.com/mui/material-ui.git
 8. ant-design: https://github.com/ant-design/ant-design.git
 9. nextui-org/nextui: https://github.com/nextui-org/nextui.git
 10. zig: https://github.com/ziglang/zig.git
