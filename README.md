@@ -27,7 +27,7 @@
 <!-- Too lazay... -->
 # This list is not related to this codebase but still, I am too lazy to put this info in correct repo right now
 1. TanStack/query: https://github.com/TanStack/query.git
-2. d3: https://github.com/d3/d3.git + same but in specially for react: https://github.com/recharts/recharts.git
+2. d3: https://github.com/d3/d3.git + Same but specially for React: https://github.com/recharts/recharts.git
 3. airbnb/visx: https://github.com/airbnb/visx.git
 4. MrBlenny/react-flow-charts: https://github.com/airbnb/visx.git
 5. react-financial: https://github.com/react-financial/react-financial-charts.git
